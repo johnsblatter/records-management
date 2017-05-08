@@ -1,3 +1,8 @@
+[![security status](https://www.meterian.com/badge/gh/johnsblatter/records-management/security)](https://www.meterian.com/report/gh/johnsblatter/records-management)
+
+[![defect status](https://www.meterian.com/badge/gh/johnsblatter/records-management/defect)](https://www.meterian.com/report/gh/johnsblatter/records-management)
+
+
 Configuring and starting Alfresco/Share:
 ----------------------------------------
 
